@@ -1,0 +1,35 @@
+# Dataset Information
+
+The raw dataset used in this project is not included in this repository.
+
+The project uses transaction-level customer data containing approximately **20,000 transactions across 4,941 unique customers**.
+
+## Available Variables
+
+The analysis uses customer and transaction-related variables including:
+
+- Client ID
+- Transaction ID
+- Transaction date
+- Credit score
+- Yearly income
+- Total debt
+- Transaction amount
+
+Additional analytical features were engineered during the project, including:
+
+- Debt-to-income ratio (DTI)
+- Total customer spending
+- Total transactions
+- Average transaction amount
+- Transaction amount standard deviation
+- Credit score groups
+- Rule-based risk segments
+- Bucket-based composite risk score
+- Continuous risk score
+
+## Data Usage
+
+The dataset is not provided because this repository is intended to demonstrate the **analytical workflow and methodology** rather than distribute the underlying data.
+
+To reproduce the analysis, a dataset with similar transaction-level customer and financial variables can be used with the SQL queries and Python notebook provided in this repository.
